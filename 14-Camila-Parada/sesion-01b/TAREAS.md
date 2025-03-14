@@ -34,6 +34,7 @@
         <br>
         <p> F) Imágenes y diagramas</p>
         <br> 
+        <img src="./image/001.jpg" style="width:600px;height:800px;">
         <br>
 <h2> 2. Tarea extra: Reseña "Barrio Universitario" </h2>
        <p>Comienzo relatando que actualmente no soy consumidora ni menos una fan de la comedia chilena. Desde hace años que me aburren los "scketches" o el humor que comienza con un "Se han fijado que...". No logro sentirme identificada en muchos de estos chistes y no comprendo el porque a algunas personas les causa gracia, talvez estoy yo muy amargada o me aburre el humor de varios humoristas de nuestro país. Sin embargo, recuerdo en mi adolecencia disfrutar de un show exclusivo de CHV, llamado "El club de la Comedia". En ese tiempo desconocía muchas cosas, pero podía disfrutar plenamente de los chistes que contaban los principales comediantes: Sergio Freire, Rodrigo "Guatón" Salinas y Fabricio Copano.</p>
