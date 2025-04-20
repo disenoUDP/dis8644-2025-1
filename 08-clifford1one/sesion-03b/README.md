@@ -33,3 +33,27 @@ Estos sonidos registrados, se usaban como inspiración y guía para crear módul
 Una vez entendí el contexto de la exposición y todo lo que hay detrás, mi opinión sobre la obra cambió radicalmente, me pareció muy acertada la metáfora de ambas sedes como 2 oídos escuchando en estéreo. También muy hermoso el concepto de crear objetos volumétricos a partir de sonidos, me parece especialmente bello que sea a partir de sonidos de ambiente, pues, al ser ambientales, muchas veces nuestro cerebro “ignora” estos sonidos y, para mí, más que “sonidos” los consideraba “ruido”, es decir, es una especie de interferencia que me obstaculiza escuchar los sonidos “reales”.
 
 De esa experiencia rescato la importancia de entender el contexto y antecedentes de una obra/proyecto, para poder conectar con él. Me acerca a entender la importancia de la curatoría, los apoyos museográficos y las llamadas “hojamac” <https://mac.uchile.cl/wp-content/uploads/2024/10/educamac_hojamac.pdf>
+
+## encargo musical
+
+ ### Gonzalo Martínez y sus cumbias pensantes
+
+ <https://www.youtube.com/watch?v=MGBKucEQzwk>
+
+ <https://www.youtube.com/watch?v=owdi6iuhx9k>
+
+ <https://www.musicapopular.cl/artista/dandy-jack/>
+
+ <https://es.wikipedia.org/wiki/Gonzalo_Martínez_y_sus_congas_pensantes>
+
+ Disco lanzado en el año 1997(aunque en el empaque dice 1998). El conjunto musical estaba compuesto por Jorge González y Dandy Jack (Martín Schopf).
+
+ Martin Schopf es un músico chileno, cuya carrera musical se ha desarrollado principalmente en Alemania, tras ser exiliado junto a su madre producto de la dictadura militar en Chile. Dado el contexto musical de Martín, tenía muchas influencias electrónicas, principalmente alemanas, por lo que su música se carcateriza por estas influencias europeas de los 80s.
+
+ En la década de los 90, Dandy le propone a Jorge González, músico reconocido y consolidado en Chile y latinoamérica, que colaboren en un proyecto musical en forma de disco. 
+
+ La forma de abordar este disco para Dandy fue, "la única forma de acercar al público chileno a la mpusica electrónica, es acercar la música electrónica al pueblo chileno". Por lo que su proyecto se componía de *covers* de cumbias chilenas, acercándose hacia lo electrónico y el sonido digital.
+
+ Cuando se publicó este proyecto, estranándose en formato CD y cassette, no tuvo éxito. Vendió menos de 3mil copias. En 2014 se reeditó este disco simultaneamente en 3 paíse, Chile, Colombia y Estados Unidos. La reedición tuvo un cambio de portada, y se redujeron la cantidad de tracks de 10 a 8.
+
+ 

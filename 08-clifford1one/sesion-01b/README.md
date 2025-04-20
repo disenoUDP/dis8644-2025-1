@@ -44,6 +44,26 @@ Lo puedo comparar con el disco “The Man Machine” de Kraftwerk, en el sentido
 
 Nota: 9/10
 
+**actualización 19/04**
+
+dentro de los instrumentos más icónicos de aphex twin se encuentran
+
+- kazoo <https://es.wikipedia.org/wiki/Kazoo>
+
+- kaoss pad <https://www.korg.com/cl/products/dj/kaoss_pad_kp3_plus/>
+
+- korg ms 20 <https://www.korg.com/cl/products/synthesizers/ms_20mini/index.php>
+
+- cítara <https://es.wikipedia.org/wiki/Cítara>
+
+- casio FZ <https://www.vintagesynth.com/casio/fz-1>
+
+- acordeón <https://es.wikipedia.org/wiki/Acordeón>
+
+fuente: [el subreddit de aphex twin](https://www.reddit.com/r/aphextwin/)
+
+mientras investigaba descubrí esta página que me parece muy interesante y con alto valor histórico <www.vintagesynth.com>
+
 
 # CULTURA ELECTRÓNICA: Internets Own Boy
 
