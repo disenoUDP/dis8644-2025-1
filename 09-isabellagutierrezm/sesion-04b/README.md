@@ -1,9 +1,23 @@
 # sesion-04b
 04 de Abril 2025
 
-![WhatsApp Image 2025-04-06 at 1 10 25 PM](https://github.com/user-attachments/assets/e7e7b967-d8d9-4bf3-90df-c316cce7b376)
-![WhatsApp Image 2025-04-06 at 1 10 26 PM](https://github.com/user-attachments/assets/577ccf31-04bf-4654-a9d6-ec7c857597c7)
-![WhatsApp Image 2025-04-06 at 1 03 52 PM](https://github.com/user-attachments/assets/71ed7887-e23c-40e2-812b-c59a6f4099c0)
+- **¿Qué es un bit?:**
+Abreviación de dígito binario, es la unidad mínima de información en la informática, se utiliza para representar la contraposición entre dos valores (apagado y encendido).
+
+## Conceptos
+- **Transistor:** Es un tipo de dispositivo electrónico semiconductor, capaz de modificar una señal eléctrica de salida como respuesta a una entrada, sirviendo como amplificador.  
+
+- **Interfaz:** Es la protección del objeto (carcasa), conexión entre un computador y el usuario, puede ser un dispositivo periférico o enlace de comunicación.
+
+- **Diagrama en bloque:** representación del funcionamiento interno de un sistema.
+
+- **Osciloscopio:** máquina que muestra la forma gráfica de amplitud de una onda .
+
+- **Pedales:** se utiliza para agregar eco, molestar el sonido.
+
+- **Instrumento musical:** permite  pasar/ transformar un gesto en un sonido
+
+- **Monoestable:** que produce un solo pulso de salida al activarse 
 
 
   ## Sintetizadores
@@ -83,4 +97,3 @@ Este aparato obtiene su energía por medio de una **batería**, la cual se puede
 
 
 
-se que me falta el diagrama de flujo, lo subiré sin falta cuando termine mi turno de trabajo!!!

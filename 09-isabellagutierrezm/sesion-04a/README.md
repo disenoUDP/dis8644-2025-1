@@ -10,8 +10,13 @@
 6.  funcionamiento sí o no, estable o no, frágil o robusto
 
   ### Atari Punk Console 
-  - Utiliza dos chip 555, para dar sonidos diferentes
-  - Su nombre proviene de la música electrónica DIY
+  Atari Punk console es un **sintetizador**, el cual utiliza **dos chip 555** para ofrecer más cantidad de sonidos. Su nombre viene de los sonidos que se asemejan a los **juegos de la 
+  consola** Atari de 1980.
+
+  
+  Fue un proceso difícil, ya que aun me cuesta leer de forma correcta el esquemático, pero lo resolvimos de forma lenta, y grupal, y si se pudo!!!  
+
+
 
 ![WhatsApp Image 2025-04-06 at 1 16 06 PM](https://github.com/user-attachments/assets/a3683140-06df-498d-a1c9-38ddb1c2721a)
 
